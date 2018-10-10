@@ -2,7 +2,7 @@
 
 ---
 
-Topics from todays news on [ #ixdbelfast](http://www.ixdbelfast.com)
+Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
 
 ---
 
