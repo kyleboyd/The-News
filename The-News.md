@@ -1,6 +1,29 @@
 ### Topics for the News
 
 ---
+#### Topics for the News 21st November 2018
+
+Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
+
+---
+- [Apple Christmas Advert](https://www.youtube.com/watch?v=3dJCroCMBPM)
+
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+
+- [Web.dev](https://web.dev/learn)
+
+- [Koons & Copyright](https://www.nytimes.com/2018/11/08/arts/design/jeff-koons-fait-dhiver-naf-naf-copyright.html)
+
+- [How UIs undermine consent bad](https://uxdesign.cc/how-user-interfaces-undermine-consent-81551cf48777)
+
+- [404 Pages](https://www.smashingmagazine.com/2018/11/the-101-course-on-crafting-404-pages/)
+
+- [Sainsburys Design System](https://www.creativereview.co.uk/a-design-system-for-sainsburys/)
+
+- [Tiny Wins](http://joelcalifa.com/blog/tiny-wins/)
+
+- [3D Printing for Good](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
+---
 
 #### Topics for the News 10th October 2018
 
@@ -28,17 +51,3 @@ Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
 
 ---
 
-#### Topics for the News 21st November 2018
-
-Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
-
----
-- [Apple Christmas Advert](https://www.youtube.com/watch?v=3dJCroCMBPM)
-- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
-- [Web.dev](https://web.dev/learn)
-- [Koons & Copyright](https://www.nytimes.com/2018/11/08/arts/design/jeff-koons-fait-dhiver-naf-naf-copyright.html)
-- [How UIs undermine consent bad](https://uxdesign.cc/how-user-interfaces-undermine-consent-81551cf48777)
-- [404 Pages](https://www.smashingmagazine.com/2018/11/the-101-course-on-crafting-404-pages/)
-- [Sainsburys Design System](https://www.creativereview.co.uk/a-design-system-for-sainsburys/)
-- [Tiny Wins](http://joelcalifa.com/blog/tiny-wins/)
-- [3D Printing for Good](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
