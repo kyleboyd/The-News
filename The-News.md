@@ -1,11 +1,13 @@
-### Topics for the News
+## Topics for the News
 
 ---
+
 #### Topics for the News 21st November 2018
 
 Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
 
 ---
+
 - [Apple Christmas Advert](https://www.youtube.com/watch?v=3dJCroCMBPM)
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
@@ -23,6 +25,7 @@ Topics from todays news at [ #ixdbelfast](http://www.ixdbelfast.com)
 - [Tiny Wins](http://joelcalifa.com/blog/tiny-wins/)
 
 - [3D Printing for Good](https://www.youtube.com/watch?v=Cl8ijPGEKO8)
+
 ---
 
 #### Topics for the News 10th October 2018
